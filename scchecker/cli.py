@@ -35,3 +35,5 @@ def display_check_result(result, url, error=""):
         print('"Online!" 👍')
     else:
         print(f'"Offline?" 👎 \n  Error: "{error}"')
+
+# test comment

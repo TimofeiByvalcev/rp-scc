@@ -36,4 +36,6 @@ def display_check_result(result, url, error=""):
     else:
         print(f'"Offline?" 👎 \n  Error: "{error}"')
 
-# test comment
+
+def test():
+    pass
